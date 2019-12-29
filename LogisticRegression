@@ -1,6 +1,3 @@
-%Cost function
-% size of sample,hypothesis, predicted value
-
 function MultiVariateRegression()
  
 	data= load("ex1data2.txt");
