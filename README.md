@@ -1,5 +1,5 @@
 # ML-in-Octave
-Machine learning algorithms built from scratch in Octave
+Machine learning algorithms built from scratch in Octave.
 Logistic Regression
   -Logistic Regression being run on some data
   -finding the cost
