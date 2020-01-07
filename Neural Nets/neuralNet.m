@@ -49,8 +49,6 @@ a2 = theta2*X';
 a1=sigmoid(a1);
 a2=sigmoid(a2);
 
-% --------------------------------------- you forgot sigmoid thing ok? -----------------------------
-
 a3 = theta3*[1 a1 a2]';
 
 a3=sigmoid(a3);
